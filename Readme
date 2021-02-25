@@ -1,2 +1,6 @@
 Unicamente um teste das funcionalidades do git
+<<<<<<< HEAD
 Quando dois ou mais arguivos estão diferentes!
+=======
+Um conflito e gerado
+>>>>>>> ffa182cfbfc81c00b4f7570d08e97a4147ea153f

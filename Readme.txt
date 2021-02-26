@@ -1,1 +1,1 @@
-Favor expecificar no nome do arguivo a vers„o, sujeito a cascudos e bicucas caso n„o faÁa
+Favor expecificar no commit motivo, vers√£o, autor, sujeito a cascudos e bicucas caso n√£o fa√ßa

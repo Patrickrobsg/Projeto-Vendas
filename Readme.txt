@@ -1,1 +1,1 @@
-Favor expecificar no commit motivo, versão, autor, sujeito a cascudos e bicucas caso não faça
+Sempre usar a branch de testes antes de passar para a principal. Favor sempre executar um commit com data, hora, autor e motivo.
